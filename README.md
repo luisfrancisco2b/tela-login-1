@@ -3,6 +3,10 @@
 Este é um projeto simples de uma tela de login que fiz para praticar minhas habilidades
 iniciais com HTML e CSS.
 
+## Preview do projeto
+
+![Preview do projeto ](preview.png)
+
 ## Tecnologias utilizadas
 
 - HTML
