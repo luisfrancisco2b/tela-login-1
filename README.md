@@ -1,21 +1,30 @@
-# Tela de login
+# 🔐 Login Page
 
-Este é um projeto simples de uma tela de login que fiz para praticar minhas habilidades
-iniciais com HTML e CSS.
+Simple login page developed to practice basic HTML and CSS skills.
 
-## Preview do projeto
+## 📸 Project Preview
 
-![Preview do projeto ](preview.png)
+![Project Preview](preview.png)
 
-## Tecnologias utilizadas
+## 🛠️ Technologies
 
 - HTML
 - CSS
 
-## Objetivo do projeto
+## ⚙️ Features
 
-Praticar a criação de uma tela de login simples com formulário HTML e estilização CSS.
+- Basic login form  
+- Clean and simple layout  
+- Responsive design  
 
-## Autor
+## 🎯 Project Goal
+
+Practice building a simple login interface using HTML forms and CSS styling.
+
+## 📚 Context
+
+One of my first projects, created during the early stages of my Front-End learning journey.
+
+## 👨‍💻 Author
 
 Luis Francisco
